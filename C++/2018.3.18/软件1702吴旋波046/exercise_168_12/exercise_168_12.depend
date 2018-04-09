@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521105661 source:c:\users\吴瑞东\desktop\交作业\exercise_168_12\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
